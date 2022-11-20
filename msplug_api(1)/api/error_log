@@ -1,0 +1,33 @@
+[08-Apr-2022 20:47:36 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:17:22 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:20:53 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:21:51 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:22:28 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:24:18 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:24:49 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:25:07 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:27:48 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:27:51 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:31:00 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 35
+[08-Apr-2022 22:31:30 Africa/Lagos] PHP Notice:  Undefined variable: URL in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 10
+[08-Apr-2022 22:31:30 Africa/Lagos] PHP Warning:  get_headers(): Filename cannot be empty in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 10
+[08-Apr-2022 22:31:30 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 11
+[08-Apr-2022 22:32:23 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 28
+[08-Apr-2022 22:32:52 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 29
+[08-Apr-2022 22:35:58 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 28
+[08-Apr-2022 22:37:44 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 27
+[08-Apr-2022 22:37:44 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 28
+[08-Apr-2022 22:38:14 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 27
+[08-Apr-2022 22:38:14 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 28
+[08-Apr-2022 22:41:13 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 30
+[08-Apr-2022 22:41:13 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 31
+[08-Apr-2022 22:41:57 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 31
+[08-Apr-2022 22:41:57 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 32
+[08-Apr-2022 22:46:41 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 32
+[08-Apr-2022 22:48:40 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 32
+[08-Apr-2022 23:52:09 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 92
+[08-Apr-2022 23:52:23 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 112
+[08-Apr-2022 23:52:55 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-airtime.php on line 112
+[09-Apr-2022 10:39:31 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 115
+[09-Apr-2022 10:39:48 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 115
+[09-Apr-2022 10:41:44 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/msplbmvi/api.msplug.com/api/buy-data.php on line 115

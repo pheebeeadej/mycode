@@ -1,0 +1,102 @@
+pip install -r requirements.txt
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+
+python manage.py shell
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+from vtuapp.models import *
+
+from django.contrib.contenttypes.models import *
+
+ContentType.objects.all().delete()
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+
+python manage.py loaddata db.json
+
+python manage.py loaddata funding.json
+
+python manage.py collectstatic
+
+
+//////////////////fund all users with 0 naira/////////////////////////
+
+
+from vtuapp.models import *
+
+
+for x in CustomUser.objects.all():
+...   x.deposit(x.id,0,False,"ADMIN WALLET FUNDING")
+...   x.save()
+
+
+
+
+//////////////////check ip from cpanel terminal/////////////////////////
+
+curl ifconfig.me
+
+
+
+//////////////////////////// activate virtual env
+Create Virtual Environment 
+
+	1. Install "vitrualenv" packages globally 
+
+python3 -m pip install virtualenv
+
+Check installed version : virtualenv -V
+
+	2. Create a directory for your Virtual Environments 
+
+Mkdir VirtialEnv
+
+	3. Move to this direcory
+	
+	Cd VirtialEnv
+	
+	4. Create your python virtual environment 
+	
+	virtualenv {name of your venv}
+	virtualenv myvenv 
+	virtualenv myvenv -p python3
+	
+	5. Activate virtual env
+	. Myvenv/bin/activate
+	
+	/myvenv/bin/activate.bat (Windows)
+
+	6. Now your terminal is using this Virtual environment for your python project 
+	
+	Check python version
+	
+	pythoon -V
+
+	7. After done your work you need to deactivate you Virtual env
+	
+deactivate
+
+////////////////////////////alternative way
+#------FOR LINUX/MAC---------#
+#installing venv 
+sudo apt-get install python3.6-venv
+#creating virtual env
+python3 -m venv env
+#activating virtual env
+source env/bin/activate
+
+
+#-------FOR WINDOWS----------#
+#installing venv
+py -m pip install --user virtualenv
+#creating virtual env
+py -m venv env
+#activating virtual env
+.\env_FOLDER\Scripts\activate
+
+

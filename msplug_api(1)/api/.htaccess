@@ -1,0 +1,6 @@
+RewriteEngine On    # Turn on the rewriting engine
+RewriteOptions Inherit
+
+RewriteRule    ^buy-airtime/?$    buy-airtime.php    [NC,L] 
+RewriteRule    ^buy-data/?$    buy-data.php    [NC,L] 
+RewriteRule    ^fetch-request/?$    fetch-request.php    [NC,L] 
